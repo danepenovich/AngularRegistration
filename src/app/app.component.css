@@ -1,0 +1,26 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.box{
+    padding:0 15px 10px 25px;
+    width:790px;
+    border:3px solid black;
+    border-radius:5px;
+}
+
+input,select{
+    border-width:3px;
+}
+
+.success{
+    padding: 10px 0 0 10px;
+    margin:0 0 10px 100px;
+    height:50px;
+    width:345px;
+    border:3px solid black;
+    border-radius:5px;
+    display:inline-block;
+    font-weight:bold;
+    color:green;
+}
